@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @pedro-drummond
-- 🌱 I’m currently learning Javascript, CSS, HTML, PYTHON.
+- 🌱 I’m currently learning C/C++, Javascript, CSS, HTML, PYTHON.
